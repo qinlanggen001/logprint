@@ -1,3 +1,3 @@
-module github.com/qinlanggen001/logprint.git
+module github.com/qinlanggen001/logprint
 
 go 1.20
